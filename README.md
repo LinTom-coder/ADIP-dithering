@@ -10,9 +10,9 @@ False contours often appear due to quantization. A common solution is **Floyd–
 ## 🔧 Performance
 
 ### ▶️ 8-bit to 4-bit Grayscale
-- [4-bit quantized grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_8to4.png)  
-- [4-bit dithered grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_floyd4.png)
+![4-bit quantized grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_8to4.png)  
+![4-bit dithered grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_floyd4.png)
 
 ### ▶️ 8-bit to 1-bit Grayscale
-- [1-bit quantized grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_8to1.png)  
-- [1-bit dithered grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_floyd1.png)
+![1-bit quantized grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_8to1.png)  
+![1-bit dithered grayscale image](https://github.com/LinTom-coder/ADIP-dithering/blob/main/images/hw2_2_floyd1.png)
