@@ -3,6 +3,9 @@
 This is an assignment from the **Advanced Digital Image Processing (ADIP)** course, focusing on the development and implementation of **Floyd–Steinberg dithering**.  
 The objective is to strengthen understanding of image quantization and enhance C programming skills through practical image processing tasks.
 
+---
+
+## 📌 Description
 False contours often appear due to quantization. A common solution is **Floyd–Steinberg dithering**, which distributes the quantization error of a pixel to its neighboring pixels to create a visually smoother result.
 
 ---
